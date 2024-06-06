@@ -1,3 +1,3 @@
 # VLDB Lab
 
-Welcome to VLDB Lab's Organization 
+Welcome to VLDB Lab's Organization 👋
